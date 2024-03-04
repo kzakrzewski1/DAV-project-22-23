@@ -14,4 +14,4 @@ https://github.com/OxCGRT/covid-policy-tracker
 https://health-infobase.canada.ca  
 https://www150.statcan.gc.ca  
 
-Authors: Krzysztof Zakrzewski & Dawid Jamka
+Authors: Krzysztof Zakrzewski & Dawid Jamka (https://github.com/shadowatyyy)
