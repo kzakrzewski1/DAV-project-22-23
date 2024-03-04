@@ -1,4 +1,4 @@
-This project is focused on COVID-19 epidemic in Canada.
+This project is focused on visualizing the course of COVID-19 epidemic in Canada.
 
 Main results can be viewed in the form of interactive presentation (presentation.html) or a static poster (poster.pdf)
 
