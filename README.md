@@ -8,10 +8,10 @@ The rest of the files is divided into three folders:
 3) scripts - python scripts used to generate plots
 
 SOURCES: 
-https://github.com/owid/covid-19-data
-https://github.com/ccodwg/Covid19Canada
-https://github.com/OxCGRT/covid-policy-tracker
-https://health-infobase.canada.ca
-https://www150.statcan.gc.ca
+https://github.com/owid/covid-19-data  
+https://github.com/ccodwg/Covid19Canada  
+https://github.com/OxCGRT/covid-policy-tracker  
+https://health-infobase.canada.ca  
+https://www150.statcan.gc.ca  
 
 Authors: Krzysztof Zakrzewski & Dawid Jamka
