@@ -1,11 +1,11 @@
-This project is focused on visualizing the course of COVID-19 epidemic in Canada.
+This project is focused on visualizing the course of the COVID-19 epidemic in Canada.
 
 Main results can be viewed in the form of interactive presentation (presentation.html) or a static poster (poster.pdf)
 
-The rest of the files is divided into three folders:
-1) data - csv and json files used to prepare visualizations
-2) plots - png and html files containing generated plots
-3) scripts - python scripts used to generate plots
+The rest of the files are divided into three folders:
+1) data - csv and json files used to prepare visualizations.
+2) plots - png and html files containing generated plots.
+3) scripts - python scripts used to generate plots.
 
 SOURCES: 
 https://github.com/owid/covid-19-data  
